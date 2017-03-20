@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Authorization</title>
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'">
+<script src="scripts/common.js"></script>
+<script src="scripts/auth.js"></script>
+</head>
+<body></body>
+</html>
